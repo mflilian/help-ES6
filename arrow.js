@@ -1,6 +1,9 @@
 
- // Arrow functions possuem uma sintaxe menor do que as expressões de função.
- // Essas funções também vinculam lexicamente o valor `this` e são sempre anônimas.
+ /**
+  * Arrow functions possuem uma sintaxe menor do que as expressões de função.
+  * Essas funções também vinculam lexicamente o valor `this` e são sempre anônimas.
+  */
+
 
   
  let ele = ["Hello", "World"];
@@ -10,7 +13,7 @@
 
  let nao = ele.map(x => x.length);
  
- // ES5
+ // ES5 version
  var nao = ele.map(function(x) { return x.length; });
  
  //Funções multilinhas requerem chaves
@@ -21,7 +24,7 @@
      console.log("World");
  };
 
- // ES5
+ // ES5 version
  var elenao = function() {
      console.log("Hello");
      console.log("World");
@@ -31,7 +34,7 @@
  let bla = () => ({ "myNumber" : 123 });
 
 
- //ES5
+ //ES5 version
  var bla = function() {
      return { "myNumber" : 123 };
  };
