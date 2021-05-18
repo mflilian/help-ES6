@@ -11,3 +11,43 @@ Por ser uma linguagem de programação majoritariamente voltada ao front-end, gr
 O ECMAScript 6, conhecido como o O Futuro do JavaScript, trouxe ainda mais mudanças para a linguagem. Esta atualização foi bastante significativa entre a comunidade porque as versões anteriores do ES, o ECMAScript 5 e 5.1, não trouxeram muitas inovações.
 
 Abaixo estão algumas das novas features que ajudarão você a entender melhor o ES6:
+
+* [Arrow](./arrow.js)
+
+* [Class](./class.js)
+
+* [Constant](./constant.js)
+
+* [Destructuring-assignment](./destructuring-assignment.js)
+
+* [Default-params](./default.js)
+
+* [Generators](./generators.js)
+
+* [Let](./let.js)
+
+* [Maps](./maps.js)
+
+* [Modules](./modules.js)
+
+* [Promises](./promises.js)
+
+* [Proxy](./proxy.js)
+
+* [Rest-params](./rest-params.js)
+
+* [Sets](./sets.js)
+
+* [Spread](./spread.js)
+
+* [Symbols](./symbols.js)
+
+* [Template-string](./template-string.js)
+
+* [Weakmaps](./weakmaps.js)
+
+* [Weaksets](./weaksets.js)
+
+
+Fontes: https://www.javascripttutorial.net/es6/
+        https://kenzie.com.br/blog/ecmascript-6/
