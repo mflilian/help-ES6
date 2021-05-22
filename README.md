@@ -49,4 +49,4 @@ Abaixo estão algumas das novas features que ajudarão você a entender melhor o
 * [Weaksets](./weaksets.js)
 
 
-Fontes: https://www.javascripttutorial.net/es6/ <br> https://kenzie.com.br/blog/ecmascript-6/
+Fontes: https://www.javascripttutorial.net/es6/ <br> https://kenzie.com.br/blog/ecmascript-6/ <br> https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
