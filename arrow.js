@@ -6,26 +6,26 @@
 
 
   
- let ele = ["Hello", "World"];
+ let pa = ["Hello", "World"];
 
  //Argumentos únicos não requerem parênteses ou chaves.
  //A declaração do return fica implícita.
 
- let nao = ele.map(x => x.length);
+ let po = pa.map(x => x.length);
  
  // ES5 version
- var nao = ele.map(function(x) { return x.length; });
+ var po = pa.map(function(x) { return x.length; });
  
  //Funções multilinhas requerem chaves
  //Sem nenhum argumento nos parênteses
 
- let elenao = () => {
+ let papo = () => {
      console.log("Hello");
      console.log("World");
  };
 
  // ES5 version
- var elenao = function() {
+ var papo = function() {
      console.log("Hello");
      console.log("World");
  };
